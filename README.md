@@ -1,3 +1,3 @@
 #I Am Real
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
