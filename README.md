@@ -1,4 +1,4 @@
-![Larp](https://tenor.com/view/mariolord-mariolord14-mario-lord-mario-lord-gif-12993108603153607612)
+![Larp](https://raw.githubusercontent.com/lupeydev/webreq/main/whyishelarping.gif)
 
 ![Metrics](./github-metrics.svg)
 
